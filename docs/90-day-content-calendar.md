@@ -42,7 +42,7 @@
 | ready | caption + graphic in `posts/` |
 | posted | live on LinkedIn |
 
-**Progress:** Day 1 **posted**. Next: **Day 2**.
+**Progress:** Day 1 **posted**. Day 2 **ready** to post. Next after that: **Day 3**.
 
 ---
 
@@ -51,7 +51,7 @@
 | Day | Topic | Hook | Series | Template | Status |
 |-----|-------|------|--------|----------|--------|
 | 1 | Salt vs Pepper | Most developers confuse Salt and Pepper… | Backend Deep Dives | Compare | posted |
-| 2 | Access + Refresh Tokens | Short-lived proof vs long-lived renewer — get lifetime wrong and security breaks. | Security Engineering | Compare | pending |
+| 2 | Access + Refresh Tokens | Short-lived proof vs long-lived renewer — get lifetime wrong and security breaks. | Security Engineering | Compare | ready |
 | 3 | Refresh Token Rotation | A stolen refresh token shouldn't own the account forever. | Security Engineering | How-it-works | pending |
 | 4 | JWT Revocation at Scale | Stateless JWTs get painful the day you need instant logout. | Security Engineering | Mistake vs Fix | pending |
 | 5 | How JWT Signatures Work | A JWT isn't encrypted by default — it's signed. That difference matters. | Backend Deep Dives | How-it-works | pending |
