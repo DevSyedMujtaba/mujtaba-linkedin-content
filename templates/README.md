@@ -5,15 +5,25 @@ Fill one template per day. Do not invent new layouts unless adding a permanent s
 ## Brand constants (every graphic)
 
 - Format: square 1:1 LinkedIn
-- Colors: dark navy/white base; concept accents (blue/red/green as needed)
-- Series pill: top-left, short ALL CAPS or Title Case
-- Title: large, bold; color-code compared terms when using Compare
-- Subtitle: 1–2 lines max
 - Footer left: **Mujtaba Bukhari** · Backend Focused Full Stack Developer  
   Stack line: `Node.js • Koa.js • TypeScript • MySQL • APIs`
-- Footer right: Save this post for later!
+- Soft CTA somewhere: Save this post / Save for later
+- Series label present (style may vary)
 - No clutter: max one main diagram idea
 
+## Visual style rotation (important)
+
+**Do not reuse the same color system and layout chrome every day.**  
+Vary palette, background, typography mood, and composition while keeping the template *structure* (Compare / How-it-works / etc.).
+
+Examples of distinct directions:
+- Light navy + blue/red columns (classic teach)
+- Dark charcoal + teal/amber timeline (ops / night mode)
+- Soft slate + single accent + big code (terminal tip)
+- Warm paper-light + ink diagrams (editorial)
+- High-contrast black + one neon accent (minimal)
+
+Keep brand name + stack readable; everything else can change.
 ---
 
 ## 1. Compare
