@@ -42,7 +42,7 @@
 | ready | caption + graphic in `posts/` |
 | posted | live on LinkedIn |
 
-**Progress:** Days 1–3 **posted**. Day 4 **ready**. Next: **Day 5**.
+**Progress:** Days 1–4 **posted**. Day 5 **ready**. Next: **Day 6**.
 
 ---
 
@@ -53,8 +53,8 @@
 | 1 | Salt vs Pepper | Most developers confuse Salt and Pepper… | Backend Deep Dives | Compare | posted |
 | 2 | Access + Refresh Tokens | Short-lived proof vs long-lived renewer — get lifetime wrong and security breaks. | Security Engineering | Compare | posted |
 | 3 | Refresh Token Rotation | A stolen refresh token shouldn't own the account forever. | Security Engineering | How-it-works | posted |
-| 4 | JWT Revocation at Scale | Stateless JWTs get painful the day you need instant logout. | Security Engineering | Mistake vs Fix | ready |
-| 5 | How JWT Signatures Work | A JWT isn't encrypted by default — it's signed. That difference matters. | Backend Deep Dives | How-it-works | pending |
+| 4 | JWT Revocation at Scale | Stateless JWTs get painful the day you need instant logout. | Security Engineering | Mistake vs Fix | posted |
+| 5 | How JWT Signatures Work | A JWT isn't encrypted by default — it's signed. That difference matters. | Backend Deep Dives | How-it-works | ready |
 | 6 | OAuth vs OpenID Connect | OAuth authorizes access. OIDC answers *who* the user is. | Security Engineering | Compare | pending |
 | 7 | API Gateway Architecture | Large companies don't expose microservices directly — and neither should you past a point. | System Design Simplified | How-it-works | pending |
 | 8 | Rate Limiting Algorithms | Fixed-window limits lie under burst traffic. | System Design Simplified | Compare | pending |
