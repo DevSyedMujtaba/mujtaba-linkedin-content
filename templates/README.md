@@ -7,6 +7,7 @@ Fill one template per day. Do not invent new layouts unless adding a permanent s
 - Format: square 1:1 LinkedIn
 - Footer left: **Mujtaba Bukhari** · Backend Focused Full Stack Developer  
   Stack line: `Node.js • Koa.js • TypeScript • MySQL • APIs`
+- **No profile photo / headshot / avatar in the footer** — text only
 - Soft CTA somewhere: Save this post / Save for later
 - Series label present (style may vary)
 - No clutter: max one main diagram idea
