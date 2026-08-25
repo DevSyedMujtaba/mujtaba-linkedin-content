@@ -42,7 +42,7 @@
 | ready | caption + graphic in `posts/` |
 | posted | live on LinkedIn |
 
-**Progress:** Days 1–10 **posted**. Day 11 **ready**. Next: **Day 12**.
+**Progress:** Days 1–11 **posted**. Day 12 **ready**. Next: **Day 13**.
 
 ---
 
@@ -60,8 +60,8 @@
 | 8 | What is Rate Limiting | Rate limiting protects your API before traffic becomes a problem. | System Design Simplified | How-it-works | posted |
 | 9 | Rate Limiting Algorithms | Fixed-window limits lie under burst traffic. | System Design Simplified | Compare | posted |
 | 10 | Idempotency Keys | Retries are normal. Duplicate charges and duplicate jobs shouldn't be. | Distributed Systems | How-it-works | posted |
-| 11 | Webhook HMAC + Replay | Signature checks without timestamp/nonce checks still get replayed. | Security Engineering | Code tip | ready |
-| 12 | Notification System Design | Email/SMS/push aren't “send and forget” — they're queues, retries, and DLQs. | System Design Simplified | How-it-works | pending |
+| 11 | Webhook HMAC + Replay | Signature checks without timestamp/nonce checks still get replayed. | Security Engineering | Code tip | posted |
+| 12 | Notification System Design | Email/SMS/push aren't “send and forget” — they're queues, retries, and DLQs. | System Design Simplified | How-it-works | ready |
 | 13 | Dead Letter Queues | Infinite retries without a DLQ turn outages into infinite cost. | Distributed Systems | How-it-works | pending |
 | 14 | File Upload Architecture | Streaming uploads through your Node API is how you invent timeouts. | System Design Simplified | How-it-works | pending |
 | 15 | Pre-signed URLs | A public bucket with obscure URLs is not authorization. | System Design Simplified | Mistake vs Fix | pending |
