@@ -42,7 +42,7 @@
 | ready | caption + graphic in `posts/` |
 | posted | live on LinkedIn |
 
-**Progress:** Days 1–13 **posted**. Day 14 **ready**. Next: **Day 15**
+**Progress:** Days 1–14 **posted**. Day 15 **ready**. Next: **Day 16**
 
 ---
 
@@ -63,8 +63,8 @@
 | 11 | Webhook HMAC + Replay | Signature checks without timestamp/nonce checks still get replayed. | Security Engineering | Code tip | posted |
 | 12 | Notification System Design | Email/SMS/push aren't “send and forget” — they're queues, retries, and DLQs. | System Design Simplified | How-it-works | ready |
 | 13 | Dead Letter Queues | Infinite retries without a DLQ turn outages into infinite cost. | Distributed Systems | How-it-works | posted |
-| 14 | File Upload Architecture | Streaming uploads through your Node API is how you invent timeouts. | System Design Simplified | How-it-works | ready |
-| 15 | Pre-signed URLs | A public bucket with obscure URLs is not authorization. | System Design Simplified | Mistake vs Fix | pending |
+| 14 | File Upload Architecture | Streaming uploads through your Node API is how you invent timeouts. | System Design Simplified | How-it-works | posted |
+| 15 | Pre-signed URLs | A public bucket with obscure URLs is not authorization. | System Design Simplified | Mistake vs Fix | ready |
 | 16 | Multi-Tenant SaaS Isolation | One missing `tenantId` in a WHERE clause is a breach, not a bug. | Building SaaS at Scale | Mistake vs Fix | pending |
 | 17 | Shared vs Separate DB Tenancy | Shared DB is cheaper. Separate DB is cleaner. The tradeoff is operational, not moral. | Building SaaS at Scale | Compare | pending |
 | 18 | RBAC vs ReBAC | Role explosion is the tax for oversimplified permissions. | Building SaaS at Scale | Compare | pending |
